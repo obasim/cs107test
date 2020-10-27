@@ -57,3 +57,4 @@ def quad_roots(a=1.0, b=2.0, c=0.0):
         r2 = -b - sqrtdisc
         twoa = 2.0 * a
         return (r1 / twoa, r2 / twoa)
+
